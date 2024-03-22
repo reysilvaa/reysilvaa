@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.postimg.cc/L8HCxfyw/Kaedehara-Kazuha-Genshin-Impact-GIF-Kaedehara-Kazuha-Genshin-Impact-Kazuha-Discover-Share-GIFs.gif" align="center" style="width: 100%" />
+<img src="https://i.postimg.cc/L8HCxfyw/Kaedehara-Kazuha-Genshin-Impact-GIF-Kaedehara-Kazuha-Genshin-Impact-Kazuha-Discover-Share-GIFs.gif" align="center"/>
 </div>  
   
 
@@ -97,12 +97,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
 
-<br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=7qdz4rrfgrkwvuokmm7f4taky&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" /></div>  
 
