@@ -61,8 +61,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/reysilvaa/reysilvaa/output/snake.svg" alt="Snake animation" />
 
 ###
