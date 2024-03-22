@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.postimg.cc/L8HCxfyw/Kaedehara-Kazuha-Genshin-Impact-GIF-Kaedehara-Kazuha-Genshin-Impact-Kazuha-Discover-Share-GIFs.gif" align="center"/>
+<img src="https://genshin.ch/templates/assets/img/avatar_emoji_300/e_047.webp"/>
 </div>  
   
 
@@ -15,7 +15,7 @@
 - ❓ Dont judge me please i'm innocent  
   
 
-- ⚡ Fun fact: I use laptop vscode instead of sublime  
+- ⚡ Fun fact: I use vscode instead of sublime  
   
 
 <br/>  
@@ -99,12 +99,14 @@
 
 
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=7qdz4rrfgrkwvuokmm7f4taky&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" /></div>  
+<div align="center">
+  <h4>Currently Listening to : </h4>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=7qdz4rrfgrkwvuokmm7f4taky&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" />
+</div>  
 
 <br/>  
 
 <div align="center">
-  <h4>Currently Listening to : </h4>
 <img src="https://komarev.com/ghpvc/?username=reysilvaa&&style=flat-square" align="center" />
 </div>  
   
