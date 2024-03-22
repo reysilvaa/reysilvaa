@@ -6,7 +6,7 @@
 ### <div align="center">I'm Rey, currently studying to be a full-stack dev👨‍💻 since 2018 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently using laptop  
   
 
 - 🌱 I’m currently learning in State of Polytechnic Malang   
