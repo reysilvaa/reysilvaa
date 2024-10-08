@@ -98,8 +98,11 @@
 
 <div align="center">
   <h4>Currently Listening to : </h4>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=7qdz4rrfgrkwvuokmm7f4taky&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" />
-</div>  
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=7qdz4rrfgrkwvuokmm7f4taky&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=7qdz4rrfgrkwvuokmm7f4taky&redirect=true)
+
+</div>
+
 
 <br/>  
 
