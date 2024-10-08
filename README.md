@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://genshin.ch/templates/assets/img/avatar_emoji_300/e_047.webp"/>
-</div>  
+  <img src="kazuzu.gif" alt="Alt Text" />
+</div>
   
 
 ### <div align="center">I'm Rey, currently studying to be a full-stack dev👨‍💻 since 2018 🚀</div>  
