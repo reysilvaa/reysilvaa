@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="GIFMaker_me.gif" alt="Alt Text" />
+  <img src="kazuzu.gif" alt="Alt Text" />
 </div>
   
 
