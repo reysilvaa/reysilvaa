@@ -68,9 +68,9 @@
 ## 🎵 Sedang Didengarkan
 
 <div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=7qdz4rrfgrkwvuokmm7f4taky&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=7qdz4rrfgrkwvuokmm7f4taky&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Profile" />
-  </a>
+  
+[<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=7qdz4rrfgrkwvuokmm7f4taky&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true" alt="Spotify Playing" width="400"/>](https://open.spotify.com/user/7qdz4rrfgrkwvuokmm7f4taky)
+
 </div>
 
 ## 💡 Projek Terbaru
@@ -100,11 +100,11 @@
 const rey = {
   pronouns: "he" | "him",
   code: ["JavaScript", "TypeScript", "PHP", "HTML", "CSS"],
-  tools: ["React", "Node.js", "Express", "MySQL", "MongoDB"],
+  tools: ["React", "Node.js", "Express", "MySQL", "PgSql"],
   education: "Politeknik Negeri Malang",
-  interests: ["Web Development", "UI/UX Design", "Music", "Gaming"],
+  interests: ["Web Development", "Browsing", "Music", "Research"],
   currentFocus: "Building scalable web applications",
-  funFact: "Saya mencintai kopi lebih dari kode (terkadang)",
+  funFact: "Saya mencintai nya lebih dari kode (hehe)",
   motto: "Tulis kode hari ini yang akan kamu syukuri besok",
 };
 ```
