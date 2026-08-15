@@ -18,7 +18,7 @@ Full-stack developer based in Malang, Indonesia, and an Information Technology s
 - [Odoo ERP Modules](https://github.com/reysilvaa/Odoo14-Hospital) — custom Odoo modules for hospital, library, and report management.
 - [DSS-AROMAN](https://github.com/reysilvaa/DSS-AROMAN) · [DSS-MEREC](https://github.com/reysilvaa/DSS-MEREC) — open-source MCDM decision-support libraries for JavaScript/TypeScript.
 - [msjframework](https://github.com/reysilvaa/msjframework) — Laravel console package for automated, standardized module scaffolding.
-- [SIKEP](https://github.com/reysilvaa/SIKEP) — digitalized population records for RW-level administration.
+- [SIKEP](https://github.com/Naufall1/SIKEP) — digitalized population records for RW-level administration (collaborator).
 
 More in my [repositories](https://github.com/reysilvaa?tab=repositories).
 
