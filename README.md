@@ -12,7 +12,7 @@ Full-stack developer based in Malang, Indonesia, and an Information Technology s
 
 ## Selected Projects
 
-- [Rosantibike Motorent](https://github.com/reysilvaa/admin-rosantibikemotorent) — motorcycle rental booking platform (NestJS, Svelte, Flutter) with QRIS payments, WhatsApp notifications, and real-time booking via WebSockets.
+- **Rosantibike Motorent** — motorcycle rental booking platform: [admin](https://github.com/reysilvaa/admin-rosantibikemotorent) · [landing](https://github.com/reysilvaa/landing-rosantibikemotorent). Powered by a NestJS API (private) with QRIS payments, WhatsApp notifications, and real-time booking via WebSockets.
 - [PBL SportCentre](https://github.com/reysilvaa/PBL-SportCentre) — full-stack reservation system built with Next.js and Express.js.
 - [Skincare Recommendation](https://github.com/reysilvaa/PBL-rekomendasi-skincare) — Flutter app with YOLOv8 acne detection and a FastAPI recommendation engine.
 - [Odoo ERP Modules](https://github.com/reysilvaa/Odoo14-Hospital) — custom Odoo modules for hospital, library, and report management.
